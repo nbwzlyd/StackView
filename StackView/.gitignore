@@ -1,9 +1,40 @@
+# Android generated
+bin/
+gen/
+obj/
+
+# Ant
+# build.xml
+local.properties
+gradle-wrapper.properties
+lint.xml
+
+
+# Eclipse
+.externalToolBuilders/
+.settings
+
+# IntelliJ
 *.iml
-.gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
+*.ipr
+*.iws
+.idea
+out/
+
+# Mac
 .DS_Store
-/build
-/captures
-.externalNativeBuild
+
+# svn
+.svn
+
+# proguard
+proguard
+
+# Gradle
+.gradle
+build
+build/
+.idea
+gradle/
+gradlew
+gradlew.bat
